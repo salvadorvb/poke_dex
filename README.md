@@ -67,7 +67,7 @@ run the application in Xcode
 
 ## Screenshots
 <div >
-<img src="https://github.com/salvadorvb/poke_dex/blob/main/images/home_list.png?raw=true" width="250" style="border: 1px solid black"/> &nbsp &nbsp
-<img src="https://github.com/salvadorvb/poke_dex/blob/main/images/splash.png?raw=true" width="250" style="border: 1px solid black"/>&nbsp &nbsp
-<img src="https://github.com/salvadorvb/poke_dex/blob/main/images/fav.png?raw=true" width="250" style="border: 1px solid black"/>
+<img src="https://github.com/salvadorvb/poke_dex/blob/main/assets/images/home_list.png?raw=true" width="250" style="border: 1px solid black"/> &nbsp &nbsp
+<img src="https://github.com/salvadorvb/poke_dex/blob/main/assets/images/splash.png?raw=true" width="250" style="border: 1px solid black"/>&nbsp &nbsp
+<img src="https://github.com/salvadorvb/poke_dex/blob/main/assets/images/fav.png?raw=true" width="250" style="border: 1px solid black"/>
 </div>
